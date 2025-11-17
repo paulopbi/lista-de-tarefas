@@ -11,11 +11,12 @@
 - [Introdução](#introdução)
 - [Demonstração](#demonstração)
 - [Aprendizados](#aprendizados)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Licença](#licença)
 
 ## Introdução
 
-Uma aplicação interativa de **lista de tarefas**, desenvolvida com **HTML**, **CSS** e **JavaScript**, onde o usuário pode **adicionar**, **marcar como concluída** ou **excluir** tarefas. O foco deste projeto foi reforçar os fundamentos da manipulação do **DOM**, **arrays** e **eventos** em JavaScript, aplicando boas práticas e organização de código.
+Uma **lista de tarefas**, onde o usuário pode **adicionar** ou **excluir** tarefas.
 
 ## Demonstração
 
@@ -37,9 +38,15 @@ Uma aplicação interativa de **lista de tarefas**, desenvolvida com **HTML**, *
 - **Separação de responsabilidades:**
   - Uso de funções pequenas e específicas para manter o código limpo e organizado.
 - **Utilização de Eventos:**
-  - Utilização de eventos como `submit` e `DOMContentLoaded` para interações.
+  - Utilização de eventos como `submit` e `DOMContentLoaded`.
 - **Variáveis CSS:**
   - Adiciona variáveis css para `textos`, `cores` e outros.
+
+## Tecnologias Utilizadas
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6)**
 
 ## Licença
 
