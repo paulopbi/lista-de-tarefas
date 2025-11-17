@@ -36,8 +36,10 @@ Uma aplicação interativa de **lista de tarefas**, desenvolvida com **HTML**, *
   - Implementação de mensagens de **erro** e estado **vazio** para melhorar a experiência do usuário.
 - **Separação de responsabilidades:**
   - Uso de funções pequenas e específicas para manter o código limpo e organizado.
-- **Utilização de Eventos**
+- **Utilização de Eventos:**
   - Utilização de eventos como `submit` e `DOMContentLoaded` para interações.
+- **Variáveis CSS:**
+  - Adiciona variáveis css para `textos`, `cores` e outros.
 
 ## Licença
 
