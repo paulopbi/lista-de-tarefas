@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Cantarell&display=swap"
+    />
+    <link rel="stylesheet" href="./src/style.css" />
+    <title>Lista de Tarefas</title>
+  </head>
+
+  <body>
+    <div class="todo">
+      <form data-form class="todo__form">
+        <input
+          type="text"
+          autofocus
+          placeholder="Digite uma tarefa..."
+          data-input
+          class="todo__input"
+        />
+        <button type="submit" data-button class="todo__button">
+          Adicionar
+        </button>
+      </form>
+
+      <ul class="todo__list" data-ul-list></ul>
+    </div>
+
+    <script src="src/script.js"></script>
+  </body>
+</html>
